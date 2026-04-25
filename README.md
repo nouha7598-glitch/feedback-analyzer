@@ -42,10 +42,7 @@ It uses simple Natural Language Processing (NLP) techniques based on keyword mat
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run 
 
 ```bash
 python main.py
-
-## 👤 Author
-- NOUHA
